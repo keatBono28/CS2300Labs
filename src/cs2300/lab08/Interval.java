@@ -7,7 +7,9 @@ package cs2300.lab08;
 
 /**
  *
- * @author kybon
+ * @author Keaton Bonomo
+ * @studentId kb619814
+ * @date 3-6-2019
  */
 public class Interval {
     private static double upper;
